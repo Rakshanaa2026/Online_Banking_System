@@ -16,7 +16,7 @@ Transaction history tracking
 
 Logout functionality
 
-Technologies Used
+#Technologies Used
 
 Java (Servlets, JSP)
 
